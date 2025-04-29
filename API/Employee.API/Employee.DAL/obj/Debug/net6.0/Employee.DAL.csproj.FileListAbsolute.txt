@@ -1,0 +1,12 @@
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\bin\Debug\net6.0\Employee.DAL.deps.json
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\bin\Debug\net6.0\Employee.DAL.dll
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\bin\Debug\net6.0\Employee.DAL.pdb
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.csproj.AssemblyReference.cache
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.dll
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\refint\Employee.DAL.dll
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\Employee.DAL.pdb
+C:\Users\Yaswanth Podapati\source\repos\BookXpertEmployeePortal\Employee.API\Employee.DAL\obj\Debug\net6.0\ref\Employee.DAL.dll
